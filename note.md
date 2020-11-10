@@ -1,0 +1,1 @@
+##### yarn init -y 初始化文件夹，自动生成package.json
