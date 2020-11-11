@@ -2,3 +2,6 @@
     color: aqua;
     font-size: 14px;
 }
+html.body {
+    background: aquamarine;
+}

@@ -26,7 +26,7 @@ module.exports = {
  },
   plugins: [
      new HtmlWebpackPlugin({
-       title: 'webpack hello'
+       title: 'webpack hello223'
      })
    ],
 }

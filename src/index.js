@@ -1,3 +1,3 @@
 import './style.css'
 
-console.log('webpack started')
+console.log('webpack started2')
